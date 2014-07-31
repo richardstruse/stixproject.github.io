@@ -1,6 +1,8 @@
 ---
 layout: flat_for_idioms
 title: STIX Idioms
+redirect_from:
+  - /idioms
 ---
 
 <link href="/css/idioms.css" rel="stylesheet"/>
